@@ -1,0 +1,5 @@
+{
+  "name": "GuildMaster Randomizer",
+  "description": "Инструмент для управления статистикой гильдии, анализа данных с помощью AI и проведения розыгрышей с таймером.",
+  "requestFramePermissions": []
+}
